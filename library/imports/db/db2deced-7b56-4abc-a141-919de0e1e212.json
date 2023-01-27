@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DK Titulo",
+    "texture": "bb96ea3c-30d2-423e-8ea5-5466d5ec4428",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      396,
+      173
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      400,
+      177
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

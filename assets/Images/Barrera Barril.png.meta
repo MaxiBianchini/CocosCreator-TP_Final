@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c0938745-9d36-4d02-a283-c23f79521ad5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 16,
+  "height": 24,
+  "platformSettings": {},
+  "subMetas": {
+    "Barrera Barril": {
+      "ver": "1.0.4",
+      "uuid": "5d8496fc-efbe-4a5c-9c14-ccd46c8fcec7",
+      "rawTextureUuid": "c0938745-9d36-4d02-a283-c23f79521ad5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 16,
+      "height": 24,
+      "rawWidth": 16,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

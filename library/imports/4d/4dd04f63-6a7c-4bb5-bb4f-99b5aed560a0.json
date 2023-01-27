@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Suelo",
+    "texture": "66049ba0-3b4f-4108-b122-4b8c343ca14d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      8
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      8
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

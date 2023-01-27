@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Corazon",
+    "texture": "a6b86775-fca7-4cc8-a5d4-a0d4318d4528",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      13,
+      11
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      13,
+      11
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

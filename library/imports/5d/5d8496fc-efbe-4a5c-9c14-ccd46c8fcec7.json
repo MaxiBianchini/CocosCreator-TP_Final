@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Barrera Barril",
+    "texture": "c0938745-9d36-4d02-a283-c23f79521ad5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      16,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

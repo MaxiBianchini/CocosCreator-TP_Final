@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pesas",
+    "texture": "0905481d-dfda-40fc-a666-f7e4acffbfd5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      8,
+      11
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      8,
+      11
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

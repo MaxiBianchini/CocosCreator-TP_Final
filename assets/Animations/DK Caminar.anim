@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "DK Caminar",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "27da5a26-95db-4067-83ee-edf1721d0434"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "e0b3fd35-43d0-4af7-8ffa-888c74f41576"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "778fb0c6-de1a-4200-9a21-6a3b9723b253"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "e0b3fd35-43d0-4af7-8ffa-888c74f41576"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "27da5a26-95db-4067-83ee-edf1721d0434"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Mario Titulo",
+    "texture": "78811dcf-4043-4d13-8dda-2bbc9002375f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      161,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DK Parado",
+    "texture": "579d1a13-aa9b-43dc-b532-c8068efa74ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

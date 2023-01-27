@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Paraguas",
+    "texture": "aec5668e-c3cf-401c-9831-7aed94b5b66b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      16,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      15
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

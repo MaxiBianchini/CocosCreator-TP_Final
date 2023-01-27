@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Escalera",
+    "texture": "f1ac39a0-9169-4024-9e20-4d21596e68b4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      10,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      10,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

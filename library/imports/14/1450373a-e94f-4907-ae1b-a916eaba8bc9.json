@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Barril 4",
+    "texture": "01d11691-e34f-413e-b708-a259d732d3a5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      12,
+      10
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      12,
+      10
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

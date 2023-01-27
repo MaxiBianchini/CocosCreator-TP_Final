@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Princesa",
+    "texture": "a2411486-8a4a-42bc-96fa-21ffc2d6cedf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      17,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      17,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

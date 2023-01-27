@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "01d11691-e34f-413e-b708-a259d732d3a5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 12,
+  "height": 10,
+  "platformSettings": {},
+  "subMetas": {
+    "Barril 4": {
+      "ver": "1.0.4",
+      "uuid": "1450373a-e94f-4907-ae1b-a916eaba8bc9",
+      "rawTextureUuid": "01d11691-e34f-413e-b708-a259d732d3a5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 12,
+      "height": 10,
+      "rawWidth": 12,
+      "rawHeight": 10,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

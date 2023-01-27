@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Mario Escalera 1",
+    "texture": "c5f94a99-783f-4705-aafc-65250769d362",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      26,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      26,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

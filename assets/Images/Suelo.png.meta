@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "66049ba0-3b4f-4108-b122-4b8c343ca14d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 80,
+  "height": 8,
+  "platformSettings": {},
+  "subMetas": {
+    "Suelo": {
+      "ver": "1.0.4",
+      "uuid": "4dd04f63-6a7c-4bb5-bb4f-99b5aed560a0",
+      "rawTextureUuid": "66049ba0-3b4f-4108-b122-4b8c343ca14d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 80,
+      "height": 8,
+      "rawWidth": 80,
+      "rawHeight": 8,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

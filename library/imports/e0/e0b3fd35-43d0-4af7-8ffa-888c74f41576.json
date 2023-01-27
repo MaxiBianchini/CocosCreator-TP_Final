@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DK Caminar 2",
+    "texture": "11b0376b-4c10-453e-842e-47a4b60313cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
